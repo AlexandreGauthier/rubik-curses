@@ -1,0 +1,17 @@
+MOVING THE CUBE:
+Left Arrow : Move left
+Right Arrow: Move right
+Up Arrow   : Move up
+Down Arrow : Move down
+
+TURNING SIDES:
+a : Move left
+s : Move right
+d : Move up
+f : Move down
+
+SHIFT FOR COUNTERCLOCKWISE
+
+OTHER:
+P : Scramble the cube
+L : Leave
